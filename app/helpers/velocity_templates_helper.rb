@@ -1,0 +1,2 @@
+module VelocityTemplatesHelper
+end
